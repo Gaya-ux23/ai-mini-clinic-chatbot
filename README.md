@@ -28,5 +28,29 @@ This project demonstrates:
 - Basic conversational AI logic
 
 ---
+## Project Structure
 
+
+---
+
+## How to Run
+1. Install dependencies
+
+2. Run the chatbot
+
+
+---
+
+## My Contribution
+- Designed the conversation workflow
+- Built NLP preprocessing pipeline
+- Structured user interaction prompts
+- Tested and refined response logic
+
+---
+
+## Future Improvements
+- Integrate with LLM APIs (OpenAI / Azure)
+- Add web UI using Streamlit
+- Improve intent classification with ML model
 
